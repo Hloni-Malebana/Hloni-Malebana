@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Hloni-Malebana
-- 👀 I’m interested in NetDevOps and Java Programming.
-- 🌱 I’m currently learning more about Java Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on open source projects that can help me hone my skills.
-- 📫 How to reach me LinkedIn @HloniMalebana
+### Hi there  👋
 
-<!---
-Hloni-Malebana/Hloni-Malebana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Hloni from Joburg,I am into Java Development and Network Engineering.I enjoy learning technologies and frameworks like JavaFX,Linux and Cisco.You can check out my linkedIn profile at https://www.linkedin.com/in/hloni-malebana/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloni-malebana)](https://github.com/hloni-malebana/github-readme-stats)
