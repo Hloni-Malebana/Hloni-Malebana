@@ -6,7 +6,7 @@ I am Hloni from Southern Africa, I am into Java Development and Network Engineer
 
 Skills: Java,Linux,Cisco
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloni-malebana&theme=dark&show_icons=true)
 
 - 🔭 I’m currently working on my digital portfolio 
 - 🌱 I’m currently learning JavaFX and CCNP Enterprise Core 
