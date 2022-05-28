@@ -13,9 +13,3 @@ Skills: Java,Linux,Cisco
 - 💬 Ask me about Advanced Routing Concepts like configuring a VPN on top of a BGP configuration. 
 - 📫 How to reach me: https://www.linkedin.com/in/hloni-malebana/ 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hloni Malebana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hloni-malebana//)  
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloni-malebana)](https://github.com/hloni-malebana/github-readme-stats)
